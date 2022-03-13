@@ -2,7 +2,7 @@ Data and code for the paper "[Tracing Origins: Coreference-aware Machine Reading
 
 ## Dataset
 
-There are three folders for our three models mentioned in the paper: Coref_additive_spacy, Coref_dgl_spacy and Coref_multiplication_spacy, and each contains the train data set and the dev data set under the **quoref** folder.
+There are three folders for our three models mentioned in the paper: Coref_additive_spacy for Coref_additive_attention, Coref_dgl_spacy for GNN and Coref_multiplication_spacy for Coref_multiplication_attention, and each contains the train data set and the dev data set under the **quoref** folder.
 
 each sample contains
 + context: the paragraph text
