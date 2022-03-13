@@ -1,0 +1,26 @@
+ {
+  "data": [   {
+      "title": "Imagine Me & You",
+      "url": "https://en.wikipedia.org/wiki/Imagine_Me_%26_You",
+      "paragraphs": [
+        {
+          "context": "The film opens on Rachel and Hector's (Matthew Goode) wedding day in North London, England. Rachel's bossy and overbearing mother, Tess, is in charge of planning the wedding. Rachel's dazed father Ned and her much younger sister Henrietta are  supportive. Prior to Rachel arriving and the ceremony beginning, flower shop owner Luce who was contracted by Tess as the wedding florist, and Henrietta are rushing along while chatting with Hector and Cooper \"Coop\" (Darren Boyd). Luce answers Henrietta's trick question which makes Henrietta take an immediate liking to her, and she asks if Luce can sit by her during the wedding. Rachel arrives with her father and the ceremony begins. As Rachel is walking down the aisle, her eyes wander and she makes eye contact with Luce. The ceremony continues according to plan, and Rachel and Hector marry. At the reception afterwards, Luce introduces herself to Rachel as the one who did the flowers as she is about to get punch. Rachel nervously blocks Luce's attempt to get a drink, and when she questions why she can't have any, Rachel reveals that her wedding ring accidentally fell in. The two share a moment together, but it is over after Luce fishes the ring out of the punch bowl and goes on her way.\nSome time later, Rachel goes to Luce's shop and invites her to dinner with Hector and, unknown to Luce, Cooper, a perennial bachelor and self-professed Lothario. Rachel has planned to set up Luce with Coop, while Luce confides to Heck moments before Coop arrives that she's a lesbian. Heck takes this news in stride and is bemused as Coop is undeterred in his attempts to seduce Luce. During the meal, when Coop starts bragging, Luce espouses she believes in love at first sight, while Rachel says it takes time to find the right person. Later on that night, Rachel and Luce share a moment together on the balcony as it rains.",
+          "context_id": "404c347b64bba279e9f8fba149fdab4957f9cb34",
+          "qas": [
+            {
+              "question": "Rachel makes eye contact with a woman sitting next to whom?",
+              "id": "9de74e94f36dd2cc656c251e1e1f644dd65eabd8",
+              "answers": [
+                {
+                  "text": "Henrietta",
+                  "answer_start": 527
+                }
+              ]
+            }
+          ]
+        }
+
+      ]
+    }
+      ]
+}
